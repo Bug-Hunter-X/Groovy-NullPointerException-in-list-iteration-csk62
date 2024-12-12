@@ -1,0 +1,1 @@
+This repository demonstrates a common Groovy error: a NullPointerException occurring when a null List is passed to a method that iterates over it.  The `bug.groovy` file shows the erroneous code, and `bugSolution.groovy` provides the solution.  This is a crucial example for understanding null safety in Groovy and how to avoid such runtime exceptions.
